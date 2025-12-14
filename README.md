@@ -1,6 +1,4 @@
-# Buy-Now-Pay-Later-Behavioral-Finance-Model
-
-# BNPL Consumer Behavior Analysis
+# Buy-Now-Pay-Later Consumer Behavior Analysis
 
 This repository contains the complete analytical pipeline for a behavioral finance study
 examining Buy Now Pay Later (BNPL) adoption using survey data.
